@@ -72,7 +72,11 @@ hobbies: ["Gaming", "Music"]
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -88,10 +92,7 @@ hobbies: ["Gaming", "Music"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="axios" **alt="axios" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" **alt="axios" width="40" height="40"/>
-  
-          
-  
-</div>
+</div> -->
 
 ---
 <!-- Streak style generator: https://github-readme-streak-stats.herokuapp.com/demo/ -->
@@ -113,3 +114,10 @@ hobbies: ["Gaming", "Music"]
 </picture>
 
 <!-- ![Snake animation](https://github.com/Lanny-MacMillan/Lanny-MacMillan/blob/output/github-contribution-grid-snake.svg) -->
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lanny-MacMillan/Lanny-MacMillan/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
