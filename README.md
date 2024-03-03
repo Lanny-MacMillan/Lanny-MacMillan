@@ -111,4 +111,8 @@ hobbies: ["Gaming", "Music"]
   <img src="https://github-readme-stats.vercel.app/api?username=Lanny-MacMillan&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+ <div>
+  <a href="https://github.com/Lanny-MacMillan">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lanny-MacMillan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
