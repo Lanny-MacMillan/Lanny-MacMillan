@@ -108,8 +108,10 @@ hobbies: ["Gaming", "Music"]
 ---
 
 <br>
+<div align="center">
   <!-- Streak style generator: https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <img width=1100 src="https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=1100&border_radius=10" alt="streak stats"/>
+  <img width=700 src="https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=700&border_radius=10" alt="streak stats"/>
+</div>
 <div align="center">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
