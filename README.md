@@ -96,7 +96,7 @@ hobbies: ["Gaming", "Music"]
 ---
 <!-- Streak style generator: https://github-readme-streak-stats.herokuapp.com/demo/ -->
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=100vw)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=1100)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&layout=compact&theme=vision-friendly-dark)](https://github.com/Lanny-MacMillan/github-readme-stats)
 
 <!-- themes - https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
