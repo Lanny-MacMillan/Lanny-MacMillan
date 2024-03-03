@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -18,8 +22,6 @@
   
   <!-- Hello World -->
   <div align="center">
-    
-  ### :globe_with_meridians: Hello World :globe_with_meridians:
   
   </div>
 
