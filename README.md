@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<!-- social badges -->
+  <!-- social badges -->
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,41 +13,45 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-<!-- profile views -->
+  <!-- profile views -->
   <img src="https://komarev.com/ghpvc/?username=Lanny-MacMillan&style=flat-square&color=blue" alt=""/>
   
-<!-- waving -->
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+  <!-- Hello World -->
+  <div align="center">
+    
+  ### :globe_with_meridians: Hello World :globe_with_meridians:
+  
+  </div>
 
-<!-- me at pc -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  ---
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lanny+MacMillan!;+Software+developer;+Game+developer;+Let's+create!" />
+  </p>
+
+  <!-- me at pc -->
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+
+  <div align="center">
+    
+  ### :woman_technologist: About Me :
+  
+  </div>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Boston.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lanny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lanny-macmillan/)
 
 ```yaml
 name: Lanny MacMillan
 located_in: Boston, Massachusetts
-current_job: Full Stack Developer
+current_job: Software Developer
 education:
   [
-    "Software Enginerring Immersive",
+    "Software Engineering Immersive",
   ]
 company: Thryv
 
@@ -66,20 +70,43 @@ technical_background:
   ]
   
 currently_learning: ["LaunchDarkly, Flutter, and React Native"]
-2024 Goals: ["."]
+2024 Goals: ["AWS Certified Developer"]
 hobbies: ["Gaming", "Music"]
 ```
----
 
-### :hammer_and_wrench: Languages and Tools :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I make games in Unity and read tech articles.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lanny-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lanny-macmillan/)
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+  
+### :hammer_and_pick: Languages and Tools :hammer_and_pick:
+
 </div>
 
 ---
 
-<h2 align="center">:fire: My Stats :fire:</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+</div>
+<br/>
+<br/>
+
+
+
+<div align="center">
+  
+### :fire: My Stats :fire:
+
+</div>
+
+---
+
 <br>
   <!-- Streak style generator: https://github-readme-streak-stats.herokuapp.com/demo/ -->
   <img width=1100 src="https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=1100&border_radius=10" alt="streak stats"/>
@@ -87,15 +114,25 @@ hobbies: ["Gaming", "Music"]
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
 </div>
+<br/>
+<br/>
+
+
+<div align="center">
+  
+### :snake: My Contributions :snake:
+
+</div>
 
 ---
 
 <div align="center">
-  <h2>:snake: My Contributions :snake:</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Lanny-MacMillan/Lanny-MacMillan/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+<br/>
+<br/>
 
 ---
 
