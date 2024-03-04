@@ -65,8 +65,9 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Web Dev"
-    "Full Stack Developer"
+    "Web Developer",
+    "Full Stack Developer",
+    "Project Manager"
   ]
   
 currently_learning: ["LaunchDarkly, Flutter, and React Native"]
