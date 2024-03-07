@@ -70,7 +70,7 @@ technical_background:
     "Project Manager"
   ]
   
-currently_learning: ["LaunchDarkly, Flutter, and React Native"]
+currently_learning: ["LaunchDarkly, React Native, Flutter"]
 2024 Goals: ["AWS Certified Developer"]
 hobbies: ["Gaming", "Music"]
 ```
