@@ -95,8 +95,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+<!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /> -->
+  
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,c#,typescript" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,unity,express,mongodb,redux" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,github,git,postman,vscode,figma" />
 </div>
 <br/>
 <br/>
