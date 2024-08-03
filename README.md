@@ -71,7 +71,7 @@ technical_background:
   ]
   
 currently_learning: ["LaunchDarkly, React Native, "]
-2024 Goals: ["AWS Certified Developer"]
+2024 Goals: ["SE Degree, AWS Certified Developer"]
 hobbies: ["Gaming", "Musician"]
 ```
 
@@ -114,7 +114,7 @@ hobbies: ["Gaming", "Musician"]
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lanny-macmillan&column=-1&theme=darkhub&title=-Issues,-Reviews)](https://github.com/lanny-macmillan/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lanny-macmillan&no-bg=true&column=-1&theme=darkhub&title=-Issues,-Reviews)](https://github.com/lanny-macmillan/github-profile-trophy)
   
 </div>
 <br/>
