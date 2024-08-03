@@ -90,9 +90,9 @@ hobbies: ["Gaming", "Musician"]
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,c#,typescript" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,unity,express,mongodb,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,unity,express,mongodb,redux" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,github,git,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,github,git,postman,vscode,figma,notion" />
 </div>
 <br/>
 <br/>
