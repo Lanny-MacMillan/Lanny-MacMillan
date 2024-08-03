@@ -70,9 +70,9 @@ technical_background:
     "Project Manager"
   ]
   
-currently_learning: ["LaunchDarkly, React Native, Flutter"]
+currently_learning: ["LaunchDarkly, React Native, "]
 2024 Goals: ["AWS Certified Developer"]
-hobbies: ["Gaming", "Music"]
+hobbies: ["Gaming", "Musician"]
 ```
 
 ---
@@ -85,7 +85,7 @@ hobbies: ["Gaming", "Music"]
 <br/>
 <br/>
 <div align="center">
-<!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+<!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,unity" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /> -->
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,c#,typescript" />
@@ -113,6 +113,9 @@ hobbies: ["Gaming", "Music"]
 <div align="center">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lanny-macmillan&column=-1&theme=darkhub&title=-Issues,-Reviews)](https://github.com/lanny-macmillan/github-profile-trophy)
+  
 </div>
 <br/>
 <br/>
