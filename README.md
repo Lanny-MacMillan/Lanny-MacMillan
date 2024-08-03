@@ -7,14 +7,17 @@
 
   <!-- social badges -->
   <div id="badges">
+    <a href="https://develop.d341ahk13w5309.amplifyapp.com/">
+      <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" target="_blank" rel="noopener noreferrer"/>
+    </a>
     <a href="https://www.linkedin.com/in/lanny-macmillan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href=""mailto:lanny.macmillan.dev@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-
   </div>
+  
   <!-- profile views -->
   <img src="https://komarev.com/ghpvc/?username=Lanny-MacMillan&style=flat-square&color=blue" alt=""/>
   
@@ -22,8 +25,7 @@
   <div align="center">
   
   </div>
-
-
+  
   ---
 
   <p align="center">
