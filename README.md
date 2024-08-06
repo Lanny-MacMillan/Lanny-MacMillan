@@ -3,7 +3,10 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+![Me](https://github.com/user-attachments/assets/14085aa8-7b98-47bb-beae-a88bfe395b7d)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=40&duration=4000&pause=500&color=00DDFF&center=true&vCenter=true&width=1000&lines=Hi+There!;Im+Lanny+MacMillan;Software+Developer;Game+Developer;Lets+create+something+together!)](https://git.io/typing-svg)
 
   <!-- social badges -->
   <div id="badges">
@@ -26,24 +29,11 @@
   
   </div>
   
-  ---
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lanny+MacMillan!;+Software+developer;+Game+developer;+Let's+create+something!" />
-  </p>
-
-  <!-- me at pc -->
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
 
 ---
 
-  <div align="center">
-    
-  ### :woman_technologist: About Me :
-  
-  </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=About+Me)](https://git.io/typing-svg)
+
 </div>
 <br/>
 
@@ -79,16 +69,11 @@ hobbies: ["Coding", "Gaming", "Musician"]
 
 ---
 
-<div align="center">
-  
-### :hammer_and_pick: Languages and Tools :hammer_and_pick:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-</div>
 <br/>
 <br/>
 <div align="center">
-<!--     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,unity" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /> -->
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,c#,typescript" />
   <br/>
@@ -101,11 +86,8 @@ hobbies: ["Coding", "Gaming", "Musician"]
 
 ---
 
-<div align="center">
-  
-### :fire: My Stats :fire:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Stats)](https://git.io/typing-svg)
 
-</div>
 <br/>
 <br>
 <div align="center">
@@ -116,7 +98,6 @@ hobbies: ["Coding", "Gaming", "Musician"]
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
   
-  <!-- ![trophySet1](https://github-trophies.vercel.app/?username=lanny-macmillan) -->
   [![trophySet2](https://github-profile-trophy.vercel.app/?username=lanny-macmillan&no-bg=true&column=-1&theme=darkhub&title=-Issues,-Reviews,-Experience)](https://github.com/lanny-macmillan/github-profile-trophy)
   
 </div>
@@ -125,11 +106,7 @@ hobbies: ["Coding", "Gaming", "Musician"]
 
 ---
 
-<div align="center">
-  
-### :snake: My Contributions :snake:
-
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Contributions+)](https://git.io/typing-svg)
 
 <div align="center">
   <br>
@@ -147,10 +124,6 @@ hobbies: ["Coding", "Gaming", "Musician"]
 <br/>
 
 ---
-
-<!-- <div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
