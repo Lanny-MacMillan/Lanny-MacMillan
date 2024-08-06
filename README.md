@@ -7,7 +7,7 @@
 ![Me](https://github.com/user-attachments/assets/14085aa8-7b98-47bb-beae-a88bfe395b7d)
 
 <!-- https://readme-typing-svg.herokuapp.com/demo/?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Contributions+ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=40&duration=4000&pause=500&color=00DDFF&center=true&vCenter=true&width=1000&lines=Hi+There!;Im+Lanny+MacMillan;Software+Developer;Game+Developer;Lets+create+something+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=40&duration=4000&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=Hi+There!;Im+Lanny+MacMillan;Software+Developer;Game+Developer;Lets+create+something+together!)](https://git.io/typing-svg)
 
   <!-- social badges -->
   <div id="badges">
