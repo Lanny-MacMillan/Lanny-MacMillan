@@ -66,8 +66,9 @@ technical_background:
     "Project Manager"
   ]
   
-currently_learning: ["LaunchDarkly, React Native"]
-2024 Goals: ["SE Degree, AWS Certified Developer"]
+currently_learning:
+["LaunchDarkly", "React Native"]
+2024_Goals: ["More Team Projects", "AWS Certified Developer"]
 hobbies: ["Coding", "Gaming", "Musician"]
 ```
 
