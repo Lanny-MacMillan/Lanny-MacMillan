@@ -97,7 +97,7 @@ hobbies: ["Coding", "Gaming", "Musician"]
 <br>
 <div align="center">
   <!-- Streak style generator: https://github-readme-streak-stats.herokuapp.com/demo/ -->
-  <img width=700 src="https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=travelers-theme&card_width=700&border_radius=10" alt="streak stats"/>
+  <img width=700 src="https://github-readme-streak-stats.herokuapp.com?user=Lanny-MacMillan&theme=react&card_width=700&border_radius=10" alt="streak stats"/>
 </div>
 <div align="center">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
