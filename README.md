@@ -13,8 +13,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lanny+MacMillan!;+Software+developer;+Game+developer;+Let's+create+something!" />
   </p> -->
 
-
-
   <!-- social badges -->
   <div id="badges">
     <a href="https://develop.d341ahk13w5309.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
