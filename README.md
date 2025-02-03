@@ -8,6 +8,7 @@
 <!-- https://readme-typing-svg.herokuapp.com/demo/?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=My+Contributions+ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=40&duration=4000&pause=500&color=00DDFF&center=true&vCenter=true&width=1000&lines=Hi+There!;Im+Lanny+MacMillan;Software+Developer;Game+Developer;Lets+create+something+together!)](https://git.io/typing-svg)
 
+
 <!-- below link works and restarts on render -->
  <!-- <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lanny+MacMillan!;+Software+developer;+Game+developer;+Let's+create+something!" />
