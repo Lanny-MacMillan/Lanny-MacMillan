@@ -11,14 +11,14 @@ jobs:
   generate:
     permissions:
       contents: write
-      pull-requests: write 
+      pull-requests: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -33,10 +33,21 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Create or update PR branch
+      - name: Stash local changes before switching branches
         run: |
-          git checkout -b auto-update-snake || git checkout auto-update-snake
-          git pull origin auto-update-snake --rebase  # Fetch latest changes to avoid conflicts
+          git add dist/*
+          git stash
+
+      - name: Create or switch to PR branch
+        run: |
+          git checkout auto-update-snake || git checkout -b auto-update-snake
+          git pull origin auto-update-snake --rebase  # Get latest changes
+
+      - name: Apply stashed changes
+        run: git stash pop || echo "No changes to apply"
+
+      - name: Commit & push changes
+        run: |
           git add dist/*
           git commit -m "Update GitHub Contribution Snake SVG" || echo "No changes to commit"
           git push origin auto-update-snake
@@ -68,4 +79,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
           merge-method: squash
-
