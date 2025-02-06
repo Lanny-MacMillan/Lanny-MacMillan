@@ -11,7 +11,7 @@ jobs:
   generate:
     permissions:
       contents: write
-      pull-requests: write  # Required to create & merge PRs
+      pull-requests: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -40,16 +40,16 @@ jobs:
           base: output
 
       - name: Auto approve PR
-        if: steps.create-pr.outputs.pull-request-number
+        if: steps.create-pr.outputs.pull-request-number != ''
         uses: hmarr/auto-approve-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
 
       - name: Auto merge PR
-        if: steps.create-pr.outputs.pull-request-number
+        if: steps.create-pr.outputs.pull-request-number != ''
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
           merge-method: squash
-
