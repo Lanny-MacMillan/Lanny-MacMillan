@@ -33,13 +33,28 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+      - name: Create or switch to PR branch
+        run: |
+          git fetch origin
+          git checkout -B auto-update-snake origin/auto-update-snake || git checkout -b auto-update-snake
+          git pull --rebase origin auto-update-snake || echo "Branch is up to date"
+
+      - name: Add & commit changes
+        run: |
+          git add dist/*
+          git commit -m "Update GitHub Contribution Snake SVG" || echo "No changes to commit"
+
+      - name: Push changes (without force-push)
+        run: |
+          git push origin auto-update-snake || echo "No changes to push"
+
       - name: Create Pull Request for generated files
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "Update GitHub Contribution Snake SVG"
           branch: auto-update-snake
-          delete-branch: false  # Keep the branch since it must exist
+          delete-branch: false  # Keep the branch active to comply with rules
           title: "Automated Update: Contribution Snake SVG"
           body: "This PR updates the GitHub contribution snake animation."
           labels: automated
