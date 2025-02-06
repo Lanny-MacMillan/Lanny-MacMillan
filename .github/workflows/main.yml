@@ -11,7 +11,7 @@ jobs:
   generate:
     permissions:
       contents: write
-      pull-requests: write
+      pull-requests: write  # Required to create & merge PRs
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -26,13 +26,22 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Create PR branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b auto-update-snake
+          git add dist/*
+          git commit -m "Update GitHub Contribution Snake SVG"
+          git push origin auto-update-snake  # Normal push (NO FORCE)
+
       - name: Create Pull Request for generated files
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "Update GitHub Contribution Snake SVG"
           branch: auto-update-snake
-          delete-branch: true
+          delete-branch: false
           title: "Automated Update: Contribution Snake SVG"
           body: "This PR updates the GitHub contribution snake animation."
           labels: automated
