@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0  # Ensure full branch history
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -33,37 +33,19 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Stash local changes before switching branches
-        run: |
-          git add dist/*
-          git stash
-
-      - name: Create or switch to PR branch
-        run: |
-          git checkout auto-update-snake || git checkout -b auto-update-snake
-          git pull origin auto-update-snake --rebase  # Get latest changes
-
-      - name: Apply stashed changes
-        run: git stash pop || echo "No changes to apply"
-
-      - name: Commit & push changes
-        run: |
-          git add dist/*
-          git commit -m "Update GitHub Contribution Snake SVG" || echo "No changes to commit"
-          git push origin auto-update-snake
-
       - name: Create Pull Request for generated files
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "Update GitHub Contribution Snake SVG"
           branch: auto-update-snake
-          delete-branch: false
+          delete-branch: false  # Keep the branch since it must exist
           title: "Automated Update: Contribution Snake SVG"
           body: "This PR updates the GitHub contribution snake animation."
           labels: automated
           reviewers: Lanny-MacMillan
           base: output
+          add-paths: dist/*  # Ensures only dist/ changes are included in the PR
 
       - name: Auto approve PR
         if: steps.create-pr.outputs.pull-request-number != ''
