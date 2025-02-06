@@ -1,7 +1,7 @@
 name: generate animation
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -11,7 +11,7 @@ jobs:
   generate:
     permissions:
       contents: write
-      pull-requests: write
+      pull-requests: write  # Required to create & merge PRs
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
