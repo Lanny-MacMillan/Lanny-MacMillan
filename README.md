@@ -67,7 +67,7 @@ technical_background:
   ]
   
 currently_learning:
-["LaunchDarkly", "React Native"]
+["LaunchDarkly", "actions/workflows"]
 2025_Goals: ["More Team Projects", "AWS Certified Developer"]
 hobbies: ["Coding", "Gaming", "Musician"]
 ```
