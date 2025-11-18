@@ -43,34 +43,45 @@
 <br/>
 
 ```yaml
-name: Lanny MacMillan
-located_in: Boston, Massachusetts
-current_job: Software Developer
-education:
-  [
-    "Software Engineering Immersive",
-  ]
-company: Thryv
+developer: "Lanny MacMillan"
+role: "Software Developer II"
+location: "Boston, Massachusetts"
+company: "Thryv"
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Front End Development",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Web Developer",
-    "Full Stack Developer",
-    "Project Manager"
-  ]
-  
+interests:
+  - Frontend
+  - Backend
+  - Mobile (iOS/Android)
+  - Game Development
+  - DevOps
+  - UI/UX
+
+experience:
+  - Web Developer
+  - Full Stack Developer
+  - Project Manager
+
+tools_and_platforms:
+  - Duda
+  - LaunchDarkly
+  - Auth0
+  - Pendo
+  - Asana
+  - Jira
+
 currently_learning:
-["LaunchDarkly", "actions/workflows"]
-2025_Goals: ["More Team Projects", "AWS Certified Developer"]
-hobbies: ["Coding", "Gaming", "Musician"]
+  - LaunchDarkly
+  - GitHub Actions / Workflows
+
+goals_2025:
+  - More Team Projects
+  - AWS Certified Developer
+
+hobbies:
+  - Coding
+  - Gaming
+  - Music
+
 ```
 
 ---
