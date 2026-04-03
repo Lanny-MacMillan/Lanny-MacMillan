@@ -16,7 +16,7 @@
 
   <!-- social badges -->
   <div id="badges">
-    <a href="https://develop.d341ahk13w5309.amplifyapp.com/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.lanny-macmillan.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/lanny-macmillan/" target="_blank" rel="noopener noreferrer">
