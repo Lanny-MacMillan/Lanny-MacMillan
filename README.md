@@ -49,38 +49,48 @@ location: "Boston, Massachusetts"
 company: "Thryv"
 
 interests:
-  - Frontend
-  - Backend
-  - Mobile (iOS/Android)
-  - Game Development
-  - DevOps
-  - UI/UX
+  - Scalable frontend architecture and UI systems
+  - Backend APIs and system integrations
+  - Mobile application development (iOS/Android)
+  - Game development and real-time 3D experiences
+  - DevOps, CI/CD, and deployment automation
+  - UI/UX and design systems
 
 experience:
-  - Web Developer
-  - Full Stack Developer
-  - Project Manager
+  - Software Developer II at Thryv (frontend + backend systems)
+  - Unity game development (interactive 2D/3D projects and gameplay systems)
+  - Full-stack development with third-party integrations and authentication systems
+  - Project coordination and cross-team workflow management
 
 tools_and_platforms:
-  - Duda
-  - LaunchDarkly
-  - Auth0
-  - Pendo
-  - Asana
-  - Jira
+  cloud:
+    - AWS (S3, Lambda, EC2)
+
+  integrations:
+    - Auth0
+    - LaunchDarkly
+
+  web_platforms:
+    - Duda
+
+  product_experience_analytics:
+    - Pendo (product analytics + in-app guidance)
+    - Google Analytics (web analytics)
+
+  project_management:
+    - Jira
+    - Asana
 
 currently_learning:
-  - LaunchDarkly
-  - GitHub Actions / Workflows
+  - Designing scalable design systems
+  - AWS + serverless architecture
+  - CI/CD Pipelines (GitHub Actions, workflow automation)
+  - Improving system design and cross-stack communication
 
-goals_2025:
-  - More Team Projects
-  - AWS Certified Developer
+goals_2026:
+  - Build scalable full-stack applications with real-world integrations
+  - Collaborate on team-based and open-source projects
 
-hobbies:
-  - Coding
-  - Gaming
-  - Music
 
 ```
 
