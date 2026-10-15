@@ -42,6 +42,7 @@
 <br/>
 
 ```yaml
+
 developer: "Lanny MacMillan"
 role: "Software Developer II"
 location: "Boston, Massachusetts"
@@ -50,27 +51,27 @@ company: "Thryv"
 interests:
   - Scalable frontend architecture and UI systems
   - Backend APIs and system integrations
+  - Infrastructure as code and cloud project provisioning
+  - DevOps, CI/CD, and deployment automation
   - Mobile application development (iOS/Android)
   - Game development and real-time 3D experiences
-  - DevOps, CI/CD, and deployment automation
-  - Infrastructure as code and cloud project provisioning
   - UI/UX and design systems
 
 experience:
-  - Software Developer II at Thryv (frontend + backend systems, infra terraforming)
+  - Software Developer II at Thryv (frontend + backend systems, infrastructure as code with Terraform on GCP)
   - Unity game development (interactive 2D/3D projects and gameplay systems)
   - Full-stack development with third-party integrations and authentication systems
   - Project coordination and cross-team workflow management
-  - Provisioned GCP infrastructure with Terraform (team/app folder hierarchy, intg/stge/ens, API enablement) in a shared org repo via PR review
-  - Google OAuth 2.0 integration for Search Console (read-only scope): consent screen, per-environment clients, verification, and token storage design
+  - Provisioned GCP infrastructure with Terraform 
+  - Google OAuth 2.0 integration for Search Console
 
 tools_and_platforms:
   cloud:
-    - AWS (S3, Lambda, EC2, etc)
-    - Google Cloud Platform (project and folder provisioning, API enablement, OAuth cons
+    - AWS (S3, Lambda, EC2)
+    - Google Cloud Platform (project and folder provisioning, API enablement, OAuth consent and credentials)
 
   infrastructure_as_code:
-    - Terraform (GCP projects, folders, IAM policies, resource liens)
+    - Terraform on GCP (projects, folders, IAM policies, resource liens)
     - Terraform on AWS (S3, Lambda, EC2)
 
   integrations:
@@ -78,6 +79,9 @@ tools_and_platforms:
     - LaunchDarkly
     - Google Control Panel
     - Google OAuth 2.0 (Search Console API)
+
+  automation_and_workflow:
+    - Tray.io
 
   web_platforms:
     - Duda
