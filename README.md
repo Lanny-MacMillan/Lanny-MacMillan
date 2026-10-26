@@ -117,6 +117,20 @@ goals_2026:
   <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,npm,git,github,mysql,postman,jira" />
   <br/>
   <img src="https://skillicons.dev/icons?i=unity,cs,tailwind,figma,notion,vscode" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-5C4EE5?style=for-the-badge" alt="Infrastructure as Code"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge" alt="LaunchDarkly"/>
+  <img src="https://img.shields.io/badge/Duda-1F2937?style=for-the-badge" alt="Duda"/>
+  <img src="https://img.shields.io/badge/Tray.io-5F3DC4?style=for-the-badge" alt="Tray.io"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pendo-DA2455?style=for-the-badge" alt="Pendo"/>
+  <img src="https://img.shields.io/badge/Tealium-00A9E0?style=for-the-badge" alt="Tealium"/>
+  <img src="https://img.shields.io/badge/Lucky%20Orange-F59E0B?style=for-the-badge" alt="Lucky Orange"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console"/>
 </div>
 <br/>
 <br/>
