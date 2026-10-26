@@ -111,8 +111,7 @@ goals_2026:
 <br/>
 <br/>
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,express,react,nextjs,redux,jest" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,nextjs,redux,jest" />
   <br/>
   <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,npm,git,github,mysql,postman,jira" />
   <br/>
