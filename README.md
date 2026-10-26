@@ -114,9 +114,9 @@ goals_2026:
   
   <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,express,react,nextjs,redux,jest" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,git,github,mysql,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,npm,git,github,mysql,postman,jira" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=unity,cs,tailwind,bootstrap,mui,figma,notion,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,tailwind,figma,notion,vscode" />
 </div>
 <br/>
 <br/>
