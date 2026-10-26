@@ -44,62 +44,59 @@
 ```yaml
 
 developer: "Lanny MacMillan"
-role: "Software Developer II"
-location: "Boston, Massachusetts"
-company: "Thryv"
+role: "Product Engineer"
+location: "Boston / Providence area"
+status: "Open to new opportunities"
 
-interests:
-  - Scalable frontend architecture and UI systems
-  - Backend APIs and system integrations
-  - Infrastructure as code and cloud project provisioning
-  - DevOps, CI/CD, and deployment automation
-  - Mobile application development (iOS/Android)
-  - Game development and real-time 3D experiences
-  - UI/UX and design systems
-
-experience:
-  - Software Developer II at Thryv (frontend + backend systems, infrastructure as code with Terraform on GCP)
-  - Unity game development (interactive 2D/3D projects and gameplay systems)
-  - Full-stack development with third-party integrations and authentication systems
-  - Project coordination and cross-team workflow management
-  - Provisioned GCP infrastructure with Terraform 
-  - Google OAuth 2.0 integration for Search Console
+focus:
+  - Product features in React, TypeScript and Node.js
+  - Integrations and analytics across third-party platforms
+  - Cloud infrastructure, infrastructure as code and CI/CD
+  - Data migration, cleanup and validation with safe rollbacks
+  - Indie game development in Unity and C#
 
 tools_and_platforms:
-  cloud:
-    - AWS (S3, Lambda, EC2)
-    - Google Cloud Platform (project and folder provisioning, API enablement, OAuth consent and credentials)
+  frontend:
+    - React, TypeScript, JavaScript, HTML and CSS
+    - Redux, Next.js
+    - Jest and React Testing Library
 
-  infrastructure_as_code:
-    - Terraform on GCP (projects, folders, IAM policies, resource liens)
-    - Terraform on AWS (S3, Lambda, EC2)
+  backend:
+    - Node.js and Express REST APIs
+    - Authentication and OAuth 2.0
+    - MySQL
 
-  integrations:
-    - Auth0
-    - LaunchDarkly
-    - Google Control Panel
-    - Google OAuth 2.0 (Search Console API)
+  cloud_and_devops:
+    - AWS
+    - Google Cloud Platform
+    - Infrastructure as code
+    - CI/CD with GitHub Actions and workflows
 
-  automation_and_workflow:
-    - Tray.io
-
-  web_platforms:
+  integrations_and_analytics:
     - Duda
+    - LaunchDarkly
+    - Tray.io
+    - Auth0
+    - Pendo
+    - Tealium
+    - Lucky Orange
+    - Google Analytics and Search Console
 
-  product_experience_analytics:
-    - Pendo (product analytics + in-app guidance)
-    - Google Analytics (web analytics)
+  data:
+    - Data migration and cleanup
+    - Validation, dry runs and rollback tooling
 
-  project_management:
-    - Jira
-    - Asana
+  game_development:
+    - C# and Unity
+    - State-machine enemy behavior, save and load, sprite animation
+
+  collaboration:
+    - Jira, Asana, Figma, Notion, Postman
 
 currently_learning:
+  - AWS and serverless architecture
   - Designing scalable design systems
-  - AWS + serverless architecture
-  - CI/CD Pipelines (GitHub Actions, workflow automation)
-  - OAuth token lifecycle and secure credential storage (refresh tokens, Secret Manager)
-  - Improving system design and cross-stack communication
+  - Secure credential storage and OAuth token lifecycles
 
 goals_2026:
   - Build scalable full-stack applications with real-world integrations
@@ -112,17 +109,28 @@ goals_2026:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&duration=10&pause=500&color=00DDFF&center=true&vCenter=true&repeat=false&width=1000&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
 <br/>
-<br/>
+
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,c#,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,express,react,nextjs,redux,jest" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,unity,express,mongodb,redux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,npm,git,github,mysql,postman,jira" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,mui,github,git,postman,vscode,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,tailwind,figma,notion,vscode" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-5C4EE5?style=for-the-badge" alt="Infrastructure as Code"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge" alt="LaunchDarkly"/>
+  <img src="https://img.shields.io/badge/Duda-1F2937?style=for-the-badge" alt="Duda"/>
+  <img src="https://img.shields.io/badge/Tray.io-5F3DC4?style=for-the-badge" alt="Tray.io"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Pendo-DA2455?style=for-the-badge" alt="Pendo"/>
+  <img src="https://img.shields.io/badge/Tealium-00A9E0?style=for-the-badge" alt="Tealium"/>
+  <img src="https://img.shields.io/badge/Lucky%20Orange-F59E0B?style=for-the-badge" alt="Lucky Orange"/>
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics"/>
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console"/>
 </div>
-<br/>
-<br/>
 
 ---
 
@@ -158,7 +166,7 @@ goals_2026:
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 
-  <br/><br/><br/>
+
 </div>
 <br/>
 <br/>
