@@ -146,7 +146,7 @@ goals_2026:
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lanny-MacMillan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=295 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanny-MacMillan&hide=HTML&layout=compact&theme=react&border_radius=10" alt="readme stats" />
   
-  [![trophySet2](https://github-profile-trophy.vercel.app/?username=lanny-macmillan&no-bg=true&column=-1&theme=darkhub&title=-Issues,-Reviews,-Experience)](https://github.com/lanny-macmillan/github-profile-trophy)
+[![trophySet2](https://github-profile-trophy-alpha.vercel.app/?username=Lanny-MacMillan&no-bg=true&column=7&theme=darkhub&title=Stars,Commits,PullRequest,Repositories,Followers,Organizations,AccountDuration,MultiLanguage)](https://github.com/lanny-macmillan/github-profile-trophy)
   
 </div>
 <br/>
